@@ -1,0 +1,3 @@
+Combo Especial;10%;Hamburguesa;Papas grandes
+Combo Mini;12%;HamburguesaMini
+Combo Especial;15%;Hamburguesa

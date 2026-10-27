@@ -1,0 +1,3 @@
+tomate;3000
+queso;2000
+tomate;1500
